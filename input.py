@@ -1,0 +1,17 @@
+# syntax is input()
+name = input("enter your name: ")
+print(f"hi {name}!") 
+#input always takes any value in string. 
+# sukaina = "sukaina", 55 ="55", 34.3 = "34.3"
+age = (input("now whats ur height?"))
+print(f"{age}?? DAAMNNN")
+beard = input("acha are u chikna or u have beard?")
+print(f"ahem {beard}? ok lol")
+age = input("also, whats ur age?")
+print(f"since your {age}, you need a dulhan!")
+print("lets see what we have..")
+one = input("pls enter ur demands now:")
+two = input("ok, and?")
+three = input("aur..")
+print(one, two, three)
+print("great!guess ur delusional")
